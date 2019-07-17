@@ -1,3 +1,4 @@
+print("sSolsta's Menu/Music Mod Active");
 var LOBBY_MUSIC_URL = "https://ssolsta.github.io/royale/music/lobby.mp3";
 var MENU_MUSIC_URL = "https://ssolsta.github.io/royale/music/menu.mp3";
 var SKIN_MUSIC_URL = {
@@ -30,4 +31,4 @@ var SKIN_MUSIC_URL = {
     32: "audio/music/gnw.mp3"
 };
 print("loading url.js finished");
-print("The music/menu music mod should be active now")
+print("The music/menu music mod should be active now");
