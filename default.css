@@ -1,0 +1,40 @@
+body {
+    color: rgb(232, 230, 227);
+    background-image: linear-gradient(rgb(55, 82, 92) 0%, rgb(80, 58, 84) 100%);
+    position: relative;
+    min-width: 100%;
+    height: auto;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+	font-family: Verdana, Geneva, sans-serif;
+}
+td {
+    padding: 12px;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    position: relative;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+h1 {
+	font-size: 32pt;
+}
+h2 {
+	font-size: 24pt;
+}
+table { 
+    border-spacing: 10px;
+    border-collapse: separate;
+	width: 40%;
+}
+p {
+	font-size: 14pt;
+}
